@@ -53,10 +53,15 @@ It contains labeled SMS messages marked as ham (not spam) or spam.
 
 ## 🛠 Technologies Used
 -Python
+
 -Scikit-learn
+
 -Pandas, NumPy
+
 -Streamlit
+
 -NLP (TF-IDF Vectorizer)
+
 -Pickle (for model persistence)
 
 # Future Enhancements
